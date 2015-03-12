@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L01DesignPattern", "L01Desi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L01ControllerPattern", "L01ControllerPattern\L01ControllerPattern.vcxproj", "{5ECE3776-A38B-44F9-A97C-04CCCE37DDBA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L04Histogram", "L04Histogram\L04Histogram.vcxproj", "{12B90CA1-7CAC-4A7F-8A98-A6C5C8B51904}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{5ECE3776-A38B-44F9-A97C-04CCCE37DDBA}.Debug|Win32.Build.0 = Debug|Win32
 		{5ECE3776-A38B-44F9-A97C-04CCCE37DDBA}.Release|Win32.ActiveCfg = Release|Win32
 		{5ECE3776-A38B-44F9-A97C-04CCCE37DDBA}.Release|Win32.Build.0 = Release|Win32
+		{12B90CA1-7CAC-4A7F-8A98-A6C5C8B51904}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12B90CA1-7CAC-4A7F-8A98-A6C5C8B51904}.Debug|Win32.Build.0 = Debug|Win32
+		{12B90CA1-7CAC-4A7F-8A98-A6C5C8B51904}.Release|Win32.ActiveCfg = Release|Win32
+		{12B90CA1-7CAC-4A7F-8A98-A6C5C8B51904}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
