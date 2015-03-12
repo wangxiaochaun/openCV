@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L01DesignPattern", "L01DesignPattern\L01DesignPattern.vcxproj", "{4FEB01D7-25CE-414F-A124-C3615AC07672}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L01ControllerPattern", "L01ControllerPattern\L01ControllerPattern.vcxproj", "{5ECE3776-A38B-44F9-A97C-04CCCE37DDBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{4FEB01D7-25CE-414F-A124-C3615AC07672}.Debug|Win32.Build.0 = Debug|Win32
 		{4FEB01D7-25CE-414F-A124-C3615AC07672}.Release|Win32.ActiveCfg = Release|Win32
 		{4FEB01D7-25CE-414F-A124-C3615AC07672}.Release|Win32.Build.0 = Release|Win32
+		{5ECE3776-A38B-44F9-A97C-04CCCE37DDBA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5ECE3776-A38B-44F9-A97C-04CCCE37DDBA}.Debug|Win32.Build.0 = Debug|Win32
+		{5ECE3776-A38B-44F9-A97C-04CCCE37DDBA}.Release|Win32.ActiveCfg = Release|Win32
+		{5ECE3776-A38B-44F9-A97C-04CCCE37DDBA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

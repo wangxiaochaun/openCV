@@ -1,5 +1,5 @@
 #include "ColorDetector.h"
-#include <opencv2\highgui\highgui.hpp>
+
 int main()
 {
 	//Create a object of the specified algrithom

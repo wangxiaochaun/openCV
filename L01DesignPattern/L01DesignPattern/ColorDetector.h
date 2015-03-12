@@ -1,8 +1,9 @@
 #pragma once
 /*
-策略模式
+策略模式，将算法封装起来
 */
 #include <opencv2\core\core.hpp>
+#include <opencv2\highgui\highgui.hpp>
 
 using namespace cv;
 
